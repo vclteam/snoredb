@@ -1,0 +1,7 @@
+_silence_
+_unknown_
+snore
+yes
+no
+left
+right
